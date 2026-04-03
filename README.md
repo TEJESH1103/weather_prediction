@@ -2,6 +2,8 @@
 
 ##  Project Overview
 This project predicts the **weather type** (Sunny, Rainy, Cloudy, Snowy) based on environmental conditions using a Machine Learning model deployed with FastAPI.
+Check this link, already deployed in Render
+https://weather-pred.onrender.com
 
 ---
 
